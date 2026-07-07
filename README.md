@@ -1,4 +1,4 @@
-# Lost & Found
+------------# Lost & Found------------------
 
 A full-stack Lost & Found application with authentication, item reporting, and admin features.
 
