@@ -1,3 +1,4 @@
+-----------------------------------UPDATED README WITH ALL THE FEATURES ---------------------------
 ------------# Lost & Found------------------
 
 A full-stack Lost & Found application with authentication, item reporting, and admin features.
